@@ -1,0 +1,6 @@
+<resources>
+    <style name="Base.Theme.WanderSync" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="Theme.WanderSync" parent="Base.Theme.WanderSync" />
+</resources>
